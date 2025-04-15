@@ -16,4 +16,4 @@ rol_ingresado = input("Ingresa el rol que tenés: ")
 rol1 = "Administrador"
 rol2 = "Moderador"
 
-print(rol_ingresado == rol1 or rol_ingresado == rol2)
+print( rol_ingresado == rol1 or rol_ingresado == rol2)
